@@ -1,0 +1,15 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4e54c8" />
+      <stop offset="100%" stop-color="#8f94fb" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)" rx="15"/>
+  <text x="50%" y="40%" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">
+    Awesome Multi-Modal Learning
+  </text>
+  <text x="50%" y="65%" font-family="Arial, sans-serif" font-size="24" fill="#e0e0e0" text-anchor="middle" dominant-baseline="middle">
+    A curated list of resources for Multi-Modal AI and Deep Learning
+  </text>
+</svg>
