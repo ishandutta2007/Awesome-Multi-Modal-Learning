@@ -1,11 +1,19 @@
-# Awesome-Multi-Modal-Learning
-## Multi-Modal Learning: Evolution, Variants, Types, & Applications
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Multi-Modal Learning banner" width="100%">
+  <br>
+  <br>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</div>
+
+# 🌟 Awesome-Multi-Modal-Learning
+## 🧠 Multi-Modal Learning: Evolution, Variants, Types, & Applications
 
 Multi-Modal Learning is a subfield of machine learning that enables AI systems to process, relate, and fuse information from multiple distinct modalities—such as text, images, video, audio, and sensor data. By breaking away from uni-modal constraints, multi-modal models achieve a more holistic, human-like understanding of real-world environments.
 
 ---
 
-## 1. The Chronological Evolution
+## 🕰️ 1. The Chronological Evolution
 
 The progression of Multi-Modal Learning reflects a transition from rigid, hand-crafted fusion frameworks to unified, fluid token spaces capable of generating cross-modal outputs.
 
@@ -24,7 +32,7 @@ flowchart LR
 
 ---
 
-## 2. Multi-Modal Interaction & Alignment Types
+## ⚙️ 2. Multi-Modal Interaction & Alignment Types
 
 These variants define how separate modalities interact mathematically within the hidden layers of a machine learning system.
 
@@ -36,7 +44,7 @@ These variants define how separate modalities interact mathematically within the
 
 ---
 
-## 3. Structural Integration Variants (The Fusion Matrix)
+## 🧩 3. Structural Integration Variants (The Fusion Matrix)
 
 Where and how information is merged dictates the overall flexibility and training efficiency of a multi-modal network architecture.
 
@@ -48,7 +56,7 @@ Where and how information is merged dictates the overall flexibility and trainin
 
 ---
 
-## 4. Modern Real-World Applications
+## 🚀 4. Modern Real-World Applications
 
 | Application | Description | Year | Example/Key Paper |
 | :--- | :--- | :--- | :--- |
