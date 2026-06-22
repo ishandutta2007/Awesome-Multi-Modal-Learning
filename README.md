@@ -64,3 +64,14 @@ Where and how information is merged dictates the overall flexibility and trainin
 | [**Autonomous Vehicle Perception Stacks**](pages/autonomous-vehicle-perception.md) | *Application:* Merges continuous video frames, LiDAR 3D point clouds, and Radar waveforms to construct a unified 3D bird's-eye-view (BEV) map of the driving landscape under severe weather conditions. | 2022 | [BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation](https://arxiv.org/abs/2205.13542) |
 | [**Multimodal Medical Diagnostics**](pages/multimodal-medical-diagnostics.md) | *Application:* Integrates raw electronic health record (EHR) text data, genomic sequencing tables, and high-resolution MRI scan images simultaneously to diagnose complex patient pathologies with superior precision. | 2022 | [Holistic AI in Medicine (HAIM)](https://www.nature.com/articles/s41746-022-00689-4) |
 
+
+## 📈 Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Multi-Modal-Learning&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chartrepos=ishandutta2007/Awesome-Multi-Modal-Learning&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chartrepos=ishandutta2007/Awesome-Multi-Modal-Learning&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chartrepos=ishandutta2007/Awesome-Multi-Modal-Learning&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
